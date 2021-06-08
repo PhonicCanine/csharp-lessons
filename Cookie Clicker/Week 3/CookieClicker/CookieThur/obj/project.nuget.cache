@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "2d8yzwURO29Rkti41WVe+VM53/6F9ku8SHMnUy3z74l7bT5wBPxTnAKQAnyxzoeegdh1oYTj9Dm4eI3L05W0DA==",
+  "success": true,
+  "projectFilePath": "/Users/josephfergusson/CGS/csharp-lessons/Cookie Clicker/Week 3/CookieClicker/CookieThur/CookieThur.csproj",
+  "expectedPackageFiles": [
+    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512",
+    "/Users/josephfergusson/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/josephfergusson/.nuget/packages/xamarin.essentials/1.6.1/xamarin.essentials.1.6.1.nupkg.sha512",
+    "/Users/josephfergusson/.nuget/packages/xamarin.forms/5.0.0.2012/xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}
