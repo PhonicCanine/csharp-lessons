@@ -8,8 +8,8 @@
         <Label Text="0" HorizontalOptions="Center" x:Name="CookieLabel"/>
         <ImageButton Clicked="CookieClicked" Source="https://cdn.shopify.com/s/files/1/0273/0973/products/BakedButtons_large.png"/>
         <Button Clicked="UpgradeClicked" Text="Upgrade (5)" x:Name="UpgradeButton"/>
-        <Button Clicked="Button_Clicked" Text="Autoclicker" x:Name="AutoClickerButton"/>
-        <Button Clicked="Button_Clicked_1" Text="Reset"/>
+        <Button Clicked="AutoclickerUpgradeClicked" Text="Autoclicker" x:Name="AutoClickerButton"/>
+        <Button Clicked="ResetClicked" Text="Reset"/>
     </StackLayout>
 
 </ContentPage>
