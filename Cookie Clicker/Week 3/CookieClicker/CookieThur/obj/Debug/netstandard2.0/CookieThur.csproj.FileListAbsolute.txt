@@ -26,3 +26,17 @@
 /Users/josephfergusson/Downloads/microbit-lessons-master 5/C#/CookieClicker/CookieThur/obj/Debug/netstandard2.0/CookieThur.dll
 /Users/josephfergusson/Downloads/microbit-lessons-master 5/C#/CookieClicker/CookieThur/obj/Debug/netstandard2.0/ref/CookieThur.dll
 /Users/josephfergusson/Downloads/microbit-lessons-master 5/C#/CookieClicker/CookieThur/obj/Debug/netstandard2.0/CookieThur.pdb
+/Users/josephfergusson/CGS/csharp-lessons/Cookie Clicker/Week 3/CookieClicker/CookieThur/bin/Debug/netstandard2.0/CookieThur.deps.json
+/Users/josephfergusson/CGS/csharp-lessons/Cookie Clicker/Week 3/CookieClicker/CookieThur/bin/Debug/netstandard2.0/CookieThur.dll
+/Users/josephfergusson/CGS/csharp-lessons/Cookie Clicker/Week 3/CookieClicker/CookieThur/bin/Debug/netstandard2.0/ref/CookieThur.dll
+/Users/josephfergusson/CGS/csharp-lessons/Cookie Clicker/Week 3/CookieClicker/CookieThur/bin/Debug/netstandard2.0/CookieThur.pdb
+/Users/josephfergusson/CGS/csharp-lessons/Cookie Clicker/Week 3/CookieClicker/CookieThur/obj/Debug/netstandard2.0/CookieThur.csprojAssemblyReference.cache
+/Users/josephfergusson/CGS/csharp-lessons/Cookie Clicker/Week 3/CookieClicker/CookieThur/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/josephfergusson/CGS/csharp-lessons/Cookie Clicker/Week 3/CookieClicker/CookieThur/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/josephfergusson/CGS/csharp-lessons/Cookie Clicker/Week 3/CookieClicker/CookieThur/obj/Debug/netstandard2.0/CookieThur.AssemblyInfoInputs.cache
+/Users/josephfergusson/CGS/csharp-lessons/Cookie Clicker/Week 3/CookieClicker/CookieThur/obj/Debug/netstandard2.0/CookieThur.AssemblyInfo.cs
+/Users/josephfergusson/CGS/csharp-lessons/Cookie Clicker/Week 3/CookieClicker/CookieThur/obj/Debug/netstandard2.0/CookieThur.csproj.CoreCompileInputs.cache
+/Users/josephfergusson/CGS/csharp-lessons/Cookie Clicker/Week 3/CookieClicker/CookieThur/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/josephfergusson/CGS/csharp-lessons/Cookie Clicker/Week 3/CookieClicker/CookieThur/obj/Debug/netstandard2.0/CookieThur.dll
+/Users/josephfergusson/CGS/csharp-lessons/Cookie Clicker/Week 3/CookieClicker/CookieThur/obj/Debug/netstandard2.0/ref/CookieThur.dll
+/Users/josephfergusson/CGS/csharp-lessons/Cookie Clicker/Week 3/CookieClicker/CookieThur/obj/Debug/netstandard2.0/CookieThur.pdb

@@ -1,23 +1,22 @@
 ﻿<Properties StartupConfiguration="{C49BC662-9548-49DC-A941-E80C7AAC358F}|Default">
   <MonoDevelop.Ide.ItemProperties.CookieThur.Android PreferredExecutionTarget="Android.Pixel_3a_API_30_x86" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="../../../../../.nuget/packages/xamarin.essentials/1.6.1/readme.txt">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CookieThur/MainPage.xaml.cs">
     <Files>
       <File FileName="CookieThur/MainPage.xaml" Line="11" Column="86" />
-      <File FileName="CookieThur/MainPage.xaml.cs" Line="63" Column="112" />
-      <File FileName="../../../../../.nuget/packages/xamarin.essentials/1.6.1/readme.txt" Line="1" Column="1" />
+      <File FileName="CookieThur/MainPage.xaml.cs" Line="14" Column="26" />
+      <File FileName="../../../../../.nuget/packages/xamarin.essentials/1.6.1/readme.txt" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="CookieThur" expanded="True">
-            <Node name="CookieThur" expanded="True" selected="True">
-              <Node name="MainPage.xaml" expanded="True" />
+            <Node name="CookieThur" expanded="True">
+              <Node name="MainPage.xaml" expanded="True">
+                <Node name="MainPage.xaml.cs" selected="True" />
+              </Node>
             </Node>
           </Node>
         </State>
-      </Pad>
-      <Pad Id="MonoDevelop.Debugger.WatchPad">
-        <State />
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
