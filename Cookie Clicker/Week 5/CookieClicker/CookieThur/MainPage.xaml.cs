@@ -69,14 +69,25 @@ namespace CookieThur
             UpgradeButtons.Children.Clear();
             foreach (var upgrade in upgrades)
             {
-                Button b = new Button { Text = $"{upgrade.Name} ({GetUpgradeCost(upgrade)})" };
+                Button b = new Button { Text = $"{upgrade.Name} ({upgrade.cost})"};
                 UpgradeButtons.Children.Add(b);
                 b.Clicked += GetEventHandler(upgrade);
             }
         }
 
+        int add(int left, int right)
+        {
+            return left + right;
+        }
+
+        Func<int, int> Add(int left) => (int right) => left + right;
+
         EventHandler GetEventHandler(Upgrade upgrade) => (object sender, EventArgs e) =>
         {
+            List<int> numbers = new List<int>();
+            numbers.Select(x => x + 1);
+            numbers.Select(Add(1));
+
             if (cookies >= GetUpgradeCost(upgrade))
             {
                 cookies -= GetUpgradeCost(upgrade);
@@ -106,6 +117,7 @@ namespace CookieThur
             cookies = 0;
             cookiesPerClick = 1;
             UpdateDisplay();
+            DrawUpgradeButtons();
         }
 
         void UpdateDisplay()
@@ -117,6 +129,8 @@ namespace CookieThur
         void CookieClicked(object sender, System.EventArgs e)
         {
             cookies = cookies + cookiesPerClick;
+            (sender as ImageButton).ScaleTo(1, 30);
+
             UpdateDisplay();
             SaveGame();
         }
@@ -129,6 +143,12 @@ namespace CookieThur
                 cookiesPerClick = cookiesPerClick + 1;
                 UpdateDisplay();
             }
+        }
+
+        void ImageButton_Pressed(System.Object sender, System.EventArgs e)
+        {
+            int a = 1;
+            (sender as ImageButton).ScaleTo(0.8, 30);
         }
     }
 }

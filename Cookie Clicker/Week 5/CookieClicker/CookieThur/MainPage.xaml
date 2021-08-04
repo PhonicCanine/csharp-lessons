@@ -6,7 +6,7 @@
         <StackLayout Margin="10,20,10,10">
             <Label Text="Cookies" HorizontalOptions="Center"/>
             <Label Text="0" HorizontalOptions="Center" x:Name="CookieLabel"/>
-            <ImageButton Clicked="CookieClicked" Source="https://cdn.shopify.com/s/files/1/0273/0973/products/BakedButtons_large.png"/>
+            <ImageButton BackgroundColor="Transparent" Pressed="ImageButton_Pressed" Clicked="CookieClicked" Source="https://cdn.shopify.com/s/files/1/0273/0973/products/BakedButtons_large.png"/>
             <Button Clicked="UpgradeClicked" Text="Upgrade (5)" x:Name="UpgradeButton"/>
             <StackLayout x:Name="UpgradeButtons"></StackLayout>
             <Button Clicked="ResetClicked" Text="Reset"/>
